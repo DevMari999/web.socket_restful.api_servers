@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="981fc792-edfe-4175-9f4e-b606b81abb6d" name="Changes" comment="socket/rest api server" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DevMari999&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2d91333c-a61d-459a-bde8-950fe3b416a5" />
+        <option name="url" value="https://github.com/DevMari999/web.socket_restful.api.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XgmjNAhjPdPXvkRXRAPSDRkKmj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.13.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.13.0&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.linters.eslint&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="981fc792-edfe-4175-9f4e-b606b81abb6d" name="Changes" comment="" />
+      <created>1690761504722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690761504722</updated>
+      <workItem from="1699059232068" duration="2205000" />
+      <workItem from="1699061443216" duration="2376000" />
+      <workItem from="1699063863594" duration="245000" />
+      <workItem from="1699064110999" duration="111000" />
+      <workItem from="1699064224754" duration="216000" />
+      <workItem from="1699064443627" duration="147000" />
+      <workItem from="1699064593508" duration="1626000" />
+      <workItem from="1699113881416" duration="226000" />
+      <workItem from="1699114109749" duration="1000" />
+      <workItem from="1699114112524" duration="341000" />
+      <workItem from="1699114456767" duration="183000" />
+      <workItem from="1699114642505" duration="67000" />
+      <workItem from="1699114712390" duration="4780000" />
+      <workItem from="1699119796793" duration="107000" />
+      <workItem from="1699119907833" duration="1000" />
+      <workItem from="1699119910911" duration="121000" />
+      <workItem from="1699120033832" duration="128000" />
+      <workItem from="1699120164485" duration="130000" />
+      <workItem from="1699120296314" duration="134000" />
+      <workItem from="1699120432670" duration="178000" />
+      <workItem from="1699120613369" duration="5021000" />
+      <workItem from="1699125643687" duration="1262000" />
+      <workItem from="1699126909487" duration="1690000" />
+      <workItem from="1699128604069" duration="2074000" />
+      <workItem from="1699130683828" duration="13000" />
+      <workItem from="1699130699139" duration="70000" />
+      <workItem from="1699130771900" duration="54000" />
+      <workItem from="1699130827639" duration="95000" />
+      <workItem from="1699130924559" duration="1000" />
+      <workItem from="1699130927343" duration="93000" />
+      <workItem from="1699131022803" duration="440000" />
+      <workItem from="1699131464719" duration="1959000" />
+      <workItem from="1699133434126" duration="522000" />
+      <workItem from="1699133958826" duration="67000" />
+      <workItem from="1699134028096" duration="1226000" />
+      <workItem from="1699135300238" duration="176000" />
+      <workItem from="1699135478762" duration="192000" />
+      <workItem from="1699135827038" duration="252000" />
+      <workItem from="1699136085385" duration="41000" />
+      <workItem from="1699139384351" duration="6000" />
+      <workItem from="1699139828988" duration="740000" />
+      <workItem from="1699140776975" duration="39000" />
+      <workItem from="1699140818707" duration="660000" />
+      <workItem from="1699141481533" duration="177000" />
+      <workItem from="1699141668868" duration="385000" />
+      <workItem from="1699142056666" duration="1001000" />
+      <workItem from="1699143143358" duration="414000" />
+      <workItem from="1699144079741" duration="227000" />
+      <workItem from="1699144581803" duration="651000" />
+      <workItem from="1699152276557" duration="16000" />
+      <workItem from="1699497583000" duration="810000" />
+      <workItem from="1699498428169" duration="208000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mini project implementing WebSocket server and a RESTful API server using Node.js.">
+      <option name="closed" value="true" />
+      <created>1699133174725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699133174725</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mini project implementing WebSocket server and a RESTful API server using Node.js. /Deployed to Heroku">
+      <option name="closed" value="true" />
+      <created>1699133947485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699133947485</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mini project implementing WebSocket server and a RESTful API server using Node.js. /Deployed to Heroku">
+      <option name="closed" value="true" />
+      <created>1699134402443</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699134402443</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mini project implementing WebSocket server and a RESTful API server using Node.js. /fix">
+      <option name="closed" value="true" />
+      <created>1699135161183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135161183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mini project implementing WebSocket server and a RESTful API server using Node.js. /Heroku deployed">
+      <option name="closed" value="true" />
+      <created>1699135508180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135508180</updated>
+    </task>
+    <task id="LOCAL-00006" summary="live demo link added to ReadMe">
+      <option name="closed" value="true" />
+      <created>1699135958183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135958183</updated>
+    </task>
+    <task id="LOCAL-00007" summary="live demo link added to ReadMe">
+      <option name="closed" value="true" />
+      <created>1699140070041</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699140070041</updated>
+    </task>
+    <task id="LOCAL-00008" summary="live demo link added to ReadMe">
+      <option name="closed" value="true" />
+      <created>1699140074567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699140074567</updated>
+    </task>
+    <task id="LOCAL-00009" summary="live demo link added to ReadMe">
+      <option name="closed" value="true" />
+      <created>1699140951169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699140951169</updated>
+    </task>
+    <task id="LOCAL-00010" summary="live demo link added to ReadMe">
+      <option name="closed" value="true" />
+      <created>1699141293934</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699141293934</updated>
+    </task>
+    <task id="LOCAL-00011" summary="live demo link added to ReadMe">
+      <option name="closed" value="true" />
+      <created>1699142010455</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699142010455</updated>
+    </task>
+    <task id="LOCAL-00012" summary="socket fixed">
+      <option name="closed" value="true" />
+      <created>1699143037788</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699143037788</updated>
+    </task>
+    <task id="LOCAL-00013" summary="socket fixed">
+      <option name="closed" value="true" />
+      <created>1699143151491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699143151491</updated>
+    </task>
+    <task id="LOCAL-00014" summary="socket fixed">
+      <option name="closed" value="true" />
+      <created>1699143530925</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699143530925</updated>
+    </task>
+    <task id="LOCAL-00015" summary="socket fixed">
+      <option name="closed" value="true" />
+      <created>1699144637743</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699144637743</updated>
+    </task>
+    <task id="LOCAL-00016" summary="socket fixed">
+      <option name="closed" value="true" />
+      <created>1699498120771</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699498120771</updated>
+    </task>
+    <task id="LOCAL-00017" summary="socket fixed">
+      <option name="closed" value="true" />
+      <created>1699498298600</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699498298600</updated>
+    </task>
+    <task id="LOCAL-00018" summary="socket/rest api server">
+      <option name="closed" value="true" />
+      <created>1699498337944</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699498337944</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github_heroku/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mini project implementing WebSocket server and a RESTful API server using Node.js." />
+    <MESSAGE value="Mini project implementing WebSocket server and a RESTful API server using Node.js. /Deployed to Heroku" />
+    <MESSAGE value="Mini project implementing WebSocket server and a RESTful API server using Node.js. /fix" />
+    <MESSAGE value="Mini project implementing WebSocket server and a RESTful API server using Node.js. /Heroku deployed" />
+    <MESSAGE value="live demo link added to ReadMe" />
+    <MESSAGE value="socket fixed" />
+    <MESSAGE value="socket/rest api server" />
+    <option name="LAST_COMMIT_MESSAGE" value="socket/rest api server" />
+  </component>
+</project>

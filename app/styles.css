@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+    background-image: url('./assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#websocket,
+#restapi {
+    margin: 20px 0;
+    width: 70%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f3f3f3;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li, button, input {
+    box-shadow: 2px 2px 4px rgba(41, 41, 41, 0.5);
+}
+
+button {
+    cursor: pointer;
+    padding: 5px 10px;
+    height: 37px;
+    border-radius: 2px;
+    margin: 0 5px;
+    border: none;
+    background-color: #d6d6d6;
+}
+
+button:hover {
+    background-color: #b9b9b9;
+}
+
+input {
+    height: 37px;
+    padding: 5px 10px;
+    margin: 10px 0;
+    border: none;
+}
+
+input::placeholder {
+    color: #1f1f1f;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    width: fit-content;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    box-shadow: 10px 10px 15px rgba(41, 41, 41, 0.79);
+    background-color: rgba(255, 255, 255, 0.63);
+}
+

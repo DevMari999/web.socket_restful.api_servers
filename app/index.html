@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket & REST API Client</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="content">
+    <h1>WebSocket & RESTful API Server</h1>
+
+    <div id="websocket">
+        <h2>WebSocket</h2>
+        <input type="text" id="messageInput" placeholder="Type a message">
+        <button onclick="sendMessage()">Send</button>
+        <ul id="messages"></ul>
+    </div>
+
+    <div id="restapi">
+        <h2>RESTful API</h2>
+        <h3>Create User</h3>
+        <input type="text" id="userName" placeholder="Enter user name">
+        <button onclick="createUser()">Create User</button>
+        <h3>All Users</h3>
+        <ul id="userList"></ul>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
